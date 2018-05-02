@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="mCreateButton">Create Account</string>
+    <string name="mPlaceButton">Place Hold</string>
+    <string name="mCancelButton">Cancel Hold</string>
+    <string name="mManageButton">Manage System</string>
+    <string name="mSubmitButton">Submit!</string>
+    <string name="usernameInput">Username</string>
+    <string name="pwdInput">Password</string>
+    <string name="emptyString">Cannot leave username or password blank!</string>
+    <string name="wrongInput">Entry must contain at least one speical character, one number and at least 3 alphabetic letters</string>
+    <string name="noSpecial">Must include at least one special character.</string>
+    <string name="moarAlpha">Must contain at least 3 alphabet characters.</string>
+    <string name="nonum">Must contain at least 1 number.</string>
+    <string name="pickupdatetext">Pickup Date (YYYY-MM-DD)</string>
+    <string name="pickuptimetext">Pickup Time (24hr format)</string>
+    <string name="returndatetext">Return Date(YYYY-MM-DD)</string>
+    <string name="returntimetext">Return Time (24 hr fomat)</string>
+    <string name="adUn">Username</string>
+    <string name="adPw">Password</string>
+    <string name="adLog">Login</string>
+    <string name="notAdmin">Wrong Login Credentials</string>
+    <string name="notRight">Incorrect Login Information</string>
+    <string name="OkayButton">OK</string>
+    <string name="okayButton">OK</string>
+    <string name="bookTitle">Title</string>
+    <string name="bookAuthor">Author</string>
+    <string name="bookIsbn">ISBN</string>
+    <string name="bookRate">Hourly Rate</string>
+
+</resources>
